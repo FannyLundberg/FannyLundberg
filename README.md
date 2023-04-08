@@ -1,5 +1,5 @@
-# Hi, I’m Fanny Lundberg!
+## Hi, I’m Fanny Lundberg!
 
-#### 👩‍💻 I’m currently learning HTML, CSS, Sass, JavaScript, Angular, React, jQuery, TypeScript, Next.js, Node.js, Express, MySQL, MongoDB at Medieinstitutet. 
+### 👩‍💻 Soon to be front end developer (in June 2023). 
 
-#### 👩🏼‍🎓 I graduate in June 2023.
+### I love structure, solve problems and be creative.
