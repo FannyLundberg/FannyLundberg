@@ -1,5 +1,5 @@
-## Hi, I’m Fanny Lundberg!
+## Hi, I’m Fanny Lundberg! 👋
 
-### 👩‍💻 Soon to be front end developer (in June 2023). 
+### Soon to be Front end developer (degree at Medieinstitutet in June 2023).
 
 ### I love structure, solve problems and be creative.
